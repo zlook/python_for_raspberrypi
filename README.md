@@ -12,5 +12,6 @@
 	
 -->04-socket_client.py
 	运行在pc端,用于给服务器端发送socket数据
+	
 -->Raspberry pi car
 	树莓派小车项目,通过socket进行链接,实现小车远程控制
